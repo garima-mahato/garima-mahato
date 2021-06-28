@@ -8,9 +8,9 @@
 
 <!--p align="left"> <a href="https://twitter.com/@igarimaver94" target="blank"><img src="https://img.shields.io/twitter/follow/@igarimaver94?logo=twitter&style=for-the-badge" alt="@igarimaver94" /></a> </p-->
 
-- 🔭 I’m currently working on [NLP](https:https://github.com/garima-mahato/END2)
+- 🔭 I’m currently working on [NLP](https://garima-mahato.github.io/END2/)
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **[NLP](https://garima-mahato.github.io/END2/)**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/garima-mahato)
 
