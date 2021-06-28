@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=garima-mahato)](https://github.com/LordDashMe/github-contribution-stats/*)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=garima-mahato)](*)
