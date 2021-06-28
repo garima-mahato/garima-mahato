@@ -1,4 +1,4 @@
-<div style="background-color:white;">
+<div style="background-color:LightBlue;">
 <h1 align="center">Hi 👋, I'm Garima Mahato</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 
