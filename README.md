@@ -24,6 +24,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Evaluation Metrics for NLP Tasks](https://garima-mahato.medium.com/understanding-evaluation-metrics-for-nlp-tasks-e720271ed50b?source=rss-427501d1fc83------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
