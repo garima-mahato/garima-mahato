@@ -22,9 +22,26 @@
 
 - 📄 Know about my experiences [GitHub](https://github.com/garima-mahato)
 
+---
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📺 Latest YouTube Videos
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/AlwinJohn?sub_confirmation=1)
+
+</div>
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
