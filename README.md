@@ -35,7 +35,7 @@
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/UCH5XohmfC5W5l5z90WbPlHQ?sub_confirmation=1)
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/UCH5XohmfC5W5l5z90WbPlHQ?view_as=subscriber?sub_confirmation=1)
 
 </div>
 
