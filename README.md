@@ -39,7 +39,10 @@
 
 </div>
 
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jGfyWjV_BMk"><img width="140px" src="https://i.ytimg.com/vi/jGfyWjV_BMk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jGfyWjV_BMk">Visio - Object Classification Demo</a><br/>Jan 15, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=e1D-shteTAI"><img width="140px" src="https://i.ytimg.com/vi/e1D-shteTAI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e1D-shteTAI">YOLO v3 Alex Detector in Trapeze Americano</a><br/>Apr 25, 2020</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
