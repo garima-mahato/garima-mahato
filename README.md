@@ -8,17 +8,15 @@
 
 <!--p align="left"> <a href="https://twitter.com/@igarimaver94" target="blank"><img src="https://img.shields.io/twitter/follow/@igarimaver94?logo=twitter&style=for-the-badge" alt="@igarimaver94" /></a> </p-->
 
-- 🔭 I’m currently working on [NLP](https://garima-mahato.github.io/END2/)
+- 🔭 I’m currently working on [AI Agents](https://github.com/garima-mahato/ERA_V3)
 
-- 🌱 I’m currently learning **[NLP](https://garima-mahato.github.io/END2/)**
+- 🌱 I’m currently learning **[AI Agents](https://github.com/garima-mahato/ERA_V3)**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/garima-mahato)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@garima-mahato)
+- 📝 I regularly share on [Medium](https://medium.com/@garima-mahato) [YouTube](https://www.youtube.com/@garimamahato6028) [Huggingface](https://huggingface.co/garima-mahato)
 
 - 💬 Ask me about **Python, JAVA, Computer Vision, Machine Learning**
-
-- 📫 How to reach me **m.garima318@gmail.com**
 
 - 📄 Know about my experiences [GitHub](https://github.com/garima-mahato)
 
